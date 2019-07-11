@@ -1,0 +1,11 @@
+Object - Student Desk
+
+1. weight (float) = 11.1
+2. material (String) = "wood laminate"
+3. color (string) = "yellow"
+4. year_made (datetime) = 2017
+
+1. how_old (2)
+2. change_color (painted white)
+3. is_heavy? (True) 
+4. is_water_resist (False)
