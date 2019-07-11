@@ -1,4 +1,4 @@
-Class Chalkboard
+Class Chalkboard - 
 
 Attributes:
 
@@ -13,5 +13,3 @@ Methods
 2. make_smaller (uses dims string to determine size and if past a user defined size, boolean is set to true)
 3. change_backing (checks the backing material string and changes to a different material as selected by the user)
 4. change_hang_style (uses hanging_style attribute and changes to a different hanging style.)
-
- 
