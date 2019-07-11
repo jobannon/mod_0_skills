@@ -1,0 +1,17 @@
+Class Chalkboard
+
+Attributes:
+
+1. hanging_style (string)
+2. backing_material (String)
+3. dims (string)
+4. year_made (datetime)
+
+Methods
+
+1. how_old (calculates the difference between year_made and today)
+2. make_smaller (uses dims string to determine size and if past a user defined size, boolean is set to true)
+3. change_backing (checks the backing material string and changes to a different material as selected by the user)
+4. change_hang_style (uses hanging_style attribute and changes to a different hanging style.)
+
+ 
