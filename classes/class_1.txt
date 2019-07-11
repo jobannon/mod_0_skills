@@ -1,0 +1,15 @@
+Class Desks
+
+Attributes:
+
+1. weight (float)
+2. material (String)
+3. color (string)
+4. year_made (datetime)
+
+Methods
+
+1. how_old (calculates the difference between year_made and today)
+2. change_color (checks attribute color and changes it to user preference)
+3. is_heavy? (calculates weight against a user defined value to determine if this is a heavy object as defined by the user)
+4. is_water_resist (reviews material attribute against a user defined value to determine if water resistant)
