@@ -22,3 +22,5 @@
        1. OOP programming
             1. read Anything by Sandy
             2. other books in the space.
+
+1. Apply and work hard! 
