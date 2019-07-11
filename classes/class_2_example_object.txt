@@ -1,0 +1,17 @@
+object blackboard
+
+Class Chalkboard
+
+Attributes:
+
+1. hanging_style (string) = "on wall"
+2. backing_material (String) = "green chalk/limestone"
+3. dims (string) = "1x1"
+4. year_made (datetime) "2010"
+
+Methods
+
+1. how_old (9)
+2. make_smaller (true)
+3. change_backing (blackstone)
+4. change_hang_style (freestanding)
